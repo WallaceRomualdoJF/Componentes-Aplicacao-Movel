@@ -13,15 +13,15 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-Dar exemplos
+1° A atividade pode ser acessada pelo site https://snack.expo.dev/@wallacer.s/telas-19_10
+2° Baixando o Visual Studio Code no site Oficial e acessando o GitHub para ser feito o upload dos arquivos necessários no formato Zip.
 ```
 
 ### 🔧 Instalação
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-Diga como essa etapa será:
-
+Quick Start
 ```
 npm install --global expo-cli && npx create-expo-app my-app
 ```
@@ -30,6 +30,16 @@ E repita:
 
 ```
 Até finalização da instalação
+```
+
+Initializing the project:
+```
+npx create-expo-app my-app && cd my-app
+```
+
+Starting the development server:
+```
+npx expo start
 ```
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
