@@ -63,8 +63,8 @@ Implantação e desenvolvimento da atividade foi realizado na plataforma online 
 Mencione as ferramentas que você usou para criar seu projeto
 
 * [React Native]([http://www.dropwizard.io/1.0.2/docs/](https://reactnative.dev)) - React Native é uma estrutura de software de interface do usuário de código aberto criada pela Meta Platforms, Inc.
-* [Expo]([https://maven.apache.org/](https://expo.dev) - uma série de componentes pré-configurados e uma forma de testar as aplicações facilmente.
-* [Javascript]([https://rometools.github.io/rome/](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiWu7_Xru36AhXpL7kGHVOeAL4QFnoECBIQAQ&url=https%3A%2F%2Fwww.javascript.com%2F&usg=AOvVaw2t3n3FoztAEJ6zUU6XdzS5) - É uma linguagem de programação que é uma das principais tecnologias da World Wide Web
+* [Expo]([https://maven.apache.org/](https://expo.dev)) - uma série de componentes pré-configurados e uma forma de testar as aplicações facilmente.
+* [Javascript]([https://rometools.github.io/rome/](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiWu7_Xru36AhXpL7kGHVOeAL4QFnoECBIQAQ&url=https%3A%2F%2Fwww.javascript.com%2F&usg=AOvVaw2t3n3FoztAEJ6zUU6XdzS5)) - É uma linguagem de programação que é uma das principais tecnologias da World Wide Web
 
 
 ## ✒️ Autores
