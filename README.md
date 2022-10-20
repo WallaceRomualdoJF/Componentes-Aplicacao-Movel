@@ -58,7 +58,7 @@ A aplicação do desenvolvimento na versão web pode ser acessado pelo aplicativ
 Implantação e desenvolvimento da atividade foi realizado na plataforma online https://snack.expo.dev com intuito da iniciativa e finalização da atividade proposta pelo Prof. Romualdo na Uniacademia
 
 
-## 🛠️ Construído com
+## 🛠️ Desenvolvido com
 
 Mencione as ferramentas que você usou para criar seu projeto
 
@@ -90,11 +90,11 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * Agradeço pela analise do documento e a atividade realizada no React Native com Expo.
 
-
 ---
 
 # Autores
 
-[<img src="https://instagram.fjdf2-1.fna.fbcdn.net/v/t51.2885-19/292299200_346584994299916_4032596511251791433_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fjdf2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=hQfr46A6Mh8AX9-XVak&tn=e8oiga9jbwoNSlq_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8ihxkGyaWseR07SmwUZrFyGD8Sq8eeD3OAh4jvNZeXAA&oe=6355D366&_nc_sid=8fd12b" width=115><br><sub>Caio Dutra</sub>]<br>
+[<img src="https://instagram.fjdf2-1.fna.fbcdn.net/v/t51.2885-19/292299200_346584994299916_4032596511251791433_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fjdf2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=hQfr46A6Mh8AX9-XVak&tn=e8oiga9jbwoNSlq_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8ihxkGyaWseR07SmwUZrFyGD8Sq8eeD3OAh4jvNZeXAA&oe=6355D366&_nc_sid=8fd12b" width=115><br><sub>Caio Dutra</sub>]
+(https://github.com/CaioDutra14)<br><br>
 
 [<img src="https://avatars.githubusercontent.com/u/67033167?s=400&u=434e92afba17dc696e7d5a9c40b5148529339aa1&v=4" width=115><br><sub>Wallace Santos</sub>](https://github.com/WallaceRomualdoJF)<br>
