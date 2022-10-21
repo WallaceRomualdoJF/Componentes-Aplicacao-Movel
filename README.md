@@ -98,3 +98,4 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 [<img src="https://avatars.githubusercontent.com/u/67033167?s=400&u=434e92afba17dc696e7d5a9c40b5148529339aa1&v=4" width=115><br><sub>Wallace Santos</sub>](https://github.com/WallaceRomualdoJF)
 
+| :---: | :---: |
