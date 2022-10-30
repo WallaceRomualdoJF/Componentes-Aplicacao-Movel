@@ -2,22 +2,24 @@
 
 A atividade foi desenvolvido pelo Caio Ottoni e Wallace Romualdo com intuito de desenvolver e aprender a aplicação dos processos de códificação no React Native com as telas e seus componentes.
 
-## 🚀 Começando
+A atividade foi criada com o site de PET simples para ser feito o acesso com o email e senha, selecionar o tipo de produto que o cliente deseja para o seu PET e a finalização da compra pelo carrinho.
+
+## 🚀 Começando:
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
-### 📋 Pré-requisitos
+### 📋 Pré-requisitos:
 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-1° A atividade pode ser acessada pelo site https://snack.expo.dev/@wallacer.s/telas-19_10
+1° A atividade pode ser acessada pelo site https://snack.expo.dev/@wallacer.s/pet
 2° Baixando o Visual Studio Code no site Oficial e acessando o GitHub para ser feito o upload dos arquivos necessários no formato Zip.
 ```
 
-### 🔧 Instalação
+### 🔧 Instalação:
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
@@ -45,7 +47,7 @@ npx expo start
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
 
-### ⌨️ E testes de estilo de codificação
+### ⌨️ E testes de estilo de codificação:
 
 Teste da aplicação do expo no mobile.
 
@@ -53,12 +55,12 @@ Teste da aplicação do expo no mobile.
 A aplicação do desenvolvimento na versão web pode ser acessado pelo aplicativo Explo com o QRcode.
 ```
 
-## 📦 Implantação
+## 📦 Implantação:
 
-Implantação e desenvolvimento da atividade foi realizado na plataforma online https://snack.expo.dev com intuito da iniciativa e finalização da atividade proposta pelo Prof. Romualdo na Uniacademia
+Implantação e desenvolvimento da atividade foi realizado na plataforma online https://snack.expo.dev com intuito da iniciativa e finalização da atividade proposta pelo Prof. Romualdo na Uniacademia.
 
 
-## 🛠️ Desenvolvido com
+## 🛠️ Desenvolvido:
 
 Mencione as ferramentas que você usou para criar seu projeto
 
@@ -77,13 +79,15 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 ## 📄 Funções
 
-*Drawer = Menu da Página inicial da atividade
+*Componentes = Os componentes estão disponíveis com as prinicpais funções Campo inteiro, Status do carrinho, Tela padronizada e botão.
 
-*HomeScreen = Página inicial da atividade com o inicio da descrição dos autores
+*Telas = As telas estão disponíveis para navegação do usuários pela página inicial (Acesso com email e senha), carrinho dos produtos escolhidos pelo usuário e serviços prestados.
 
-*InformationScreen = Informações sobre o React Native
+*estilos.js = Informações sobre os tipos de estilos criação da exportação das cores da página de navegação e componentes.
 
-*ContatoScreen = Contato dos integrantes da atividade de telas (React Native)
+*Rotas.js = Contato dos integrantes da atividade de telas (React Native)
+
+*App.js = Aplicação responsável pela importação e exportação das telas de navegação Pagina inicial, Serviços e Carrinho.
 
 
 ## ✌️ Expressões de gratidão
